@@ -73,12 +73,8 @@ a {
 }
 
 .hero-button {
-  position: absolute;
-  width: 216px;
-  height: 50px;
-  left: 692px;
-  top: 430px;
-
+  font-family: 'Roboto';
+  font-style: normal;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
@@ -122,7 +118,6 @@ a {
   text-align: center;
 } */
 .team-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 0.84;
   text-align: center;
@@ -144,14 +139,12 @@ address {
   color: var(--main-background-color);
 }
 .contact-adress a {
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--main-background-color);
 }
 .contact-list a {
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -174,6 +167,7 @@ address {
 }
 
 .button-portfolio {
+  font-family: 'Roboto';
   border: 0;
   font-weight: 500;
   font-size: 16px;
